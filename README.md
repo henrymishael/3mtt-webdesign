@@ -1,4 +1,4 @@
-# My Project
+# Simple Web App
 
 ##
 
@@ -11,7 +11,7 @@
 
 ### DEMO LINK
 
-[my web-app](appexample.com)
+[my web-app](https://henrymishael.github.io/3mtt-webdesign/)
 
 ### Author
 
